@@ -90,11 +90,9 @@ src/
 🌐 Live Demo
   DEMO.. (Link  [https://github.com/kirti095/netflix-clone.git] )
 
+
 📄 License
 This project is licensed under MIT License.
-
-
----
 
 ### ✅ Instructions:
 
@@ -104,6 +102,7 @@ This project is licensed under MIT License.
 - Add screenshots in `public/screenshots/` if you want visuals.
 
 Let me know if you'd like to generate the license file (`MIT`, `Apache`, etc.) too!
+
 
 📣 Feedback
 We’d love to hear your thoughts about this Netflix Clone!
