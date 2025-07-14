@@ -1,0 +1,27 @@
+.search-page {
+  padding: 20px;
+  background-color: #111;
+  color: white;
+  min-height: 100vh;
+}
+
+.search-results {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.search-card {
+  width: 150px;
+  text-align: center;
+}
+
+.search-card img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.search-card h4 {
+  margin-top: 8px;
+  font-size: 0.95rem;
+}

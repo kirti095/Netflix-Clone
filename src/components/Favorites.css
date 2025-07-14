@@ -1,0 +1,43 @@
+.favorites-page {
+  padding: 20px;
+  color: white;
+  background-color: #111;
+}
+
+.favorites-page h2 {
+  margin-bottom: 20px;
+}
+
+.favorites-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.favorite-card {
+  width: 160px;
+  text-align: center;
+  background-color: #222;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.favorite-card img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.favorite-card button {
+  margin-top: 8px;
+  padding: 6px 10px;
+  font-size: 14px;
+  background-color: #e50914;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.favorite-card button:hover {
+  background-color: #b20710;
+}

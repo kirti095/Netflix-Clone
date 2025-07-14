@@ -1,0 +1,69 @@
+.auth-page {
+  background: url('../assests/netflix_background.jpg') center/cover no-repeat;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.auth-logo {
+  width: 150px;
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  z-index: 10;
+}
+
+.auth-form {
+  background-color: rgba(0, 0, 0, 0.75);
+  margin-top: 100px;
+  padding: 60px 68px 40px;
+  color: white;
+  max-width: 450px;
+  width: 100%;
+  border-radius: 4px;
+  z-index: 10;
+}
+
+.auth-form h1 {
+  margin-bottom: 28px;
+  font-size: 2rem;
+}
+
+.auth-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.auth-form input {
+  padding: 16px;
+  font-size: 1rem;
+  background: #333;
+  border: none;
+  color: white;
+}
+
+.auth-form button {
+  padding: 16px;
+  background-color: #e50914;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.auth-toggle {
+  margin-top: 20px;
+  font-size: 0.9rem;
+  color: #999;
+}
+
+.auth-toggle span {
+  color: white;
+  cursor: pointer;
+  margin-left: 5px;
+}
