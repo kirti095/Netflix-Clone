@@ -32,7 +32,7 @@ A fully functional **Netflix Clone** built using **React.js** that mimics the re
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/kirti095/netflix-clone.git
 cd netflix-clone
 2. Install dependencies
