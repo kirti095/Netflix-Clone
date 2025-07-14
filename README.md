@@ -35,12 +35,14 @@ A fully functional **Netflix Clone** built using **React.js** that mimics the re
 
 git clone https://github.com/kirti095/netflix-clone.git
 cd netflix-clone
-2. Install dependencies
+
+### 2. Install dependencies
 bash
 Copy
 Edit
 npm install
-3. Set up environment variables
+
+### 3. Set up environment variables
 Create a .env file in the root with the following:
 
 env
@@ -49,14 +51,14 @@ Edit
 REACT_APP_TMDB_API_KEY=your_tmdb_api_key
 Also, configure your Firebase project and add your Firebase config inside firebase.js.
 
-4. Start the development server
+### 4. Start the development server
 bash
 Copy
 Edit
 npm start
 App will run at: http://localhost:3000
 
-🧪 Folder Structure
+### 🧪 Folder Structure
 css
 Copy
 Edit
@@ -74,25 +76,26 @@ src/
 ├── App.js
 └── index.js
 
-📝 Credits
- * Movie Data API: TMDB
- * Hosting & Auth: Firebase
- * Avatars: Custom sprite sheet
- * Icons: React Icons
+### 📝 Credits
+  * Movie Data API: TMDB
+  * Hosting & Auth: Firebase
+  * Avatars: Custom sprite sheet
+  * Icons: React Icons
 
-🪄 Future Improvements
- * Add profile management
- * Pagination and infinite scroll
- * Dark/light theme toggle
- * Movie trailers modal
- * Multi-user support
+### 🪄 Future Improvements
+  * Add profile management
+  * Pagination and infinite scroll
+  * Dark/light theme toggle
+  * Movie trailers modal
+  * Multi-user support
 
-🌐 Live Demo
+
+### 🌐 Live Demo
   DEMO.. (Link  [https://github.com/kirti095/netflix-clone.git] )
 
 
-📄 License
-This project is licensed under MIT License.
+### 📄 License
+ This project is licensed under MIT License.
 
 ### ✅ Instructions:
 
@@ -104,17 +107,17 @@ This project is licensed under MIT License.
 Let me know if you'd like to generate the license file (`MIT`, `Apache`, etc.) too!
 
 
-📣 Feedback
-We’d love to hear your thoughts about this Netflix Clone!
+### 📣 Feedback
+  We’d love to hear your thoughts about this Netflix Clone!
 
-If you find a bug, have suggestions for improvements, or want to share what you liked — feel free to:
+  If you find a bug, have suggestions for improvements, or want to share what you liked — feel free to:
 
-⭐ Star the repository on GitHub
+ ⭐ Star the repository on GitHub
 
-🐛 Open an issue for bugs or enhancements
+ 🐛 Open an issue for bugs or enhancements
 
-💬 Leave a comment or feedback through pull requests
+ 💬 Leave a comment or feedback through pull requests
 
-Your feedback helps improve the project and is always appreciated! 🙌
+ Your feedback helps improve the project and is always appreciated! 🙌
 
 
