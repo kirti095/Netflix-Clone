@@ -58,7 +58,7 @@ Edit
 npm start
 App will run at: http://localhost:3000
 
-### 🧪 Folder Structure
+## 🧪 Folder Structure
 css
 Copy
 Edit
@@ -76,13 +76,13 @@ src/
 ├── App.js
 └── index.js
 
-### 📝 Credits
+## 📝 Credits
   * Movie Data API: TMDB
   * Hosting & Auth: Firebase
   * Avatars: Custom sprite sheet
   * Icons: React Icons
 
-### 🪄 Future Improvements
+## 🪄 Future Improvements
   * Add profile management
   * Pagination and infinite scroll
   * Dark/light theme toggle
@@ -90,14 +90,14 @@ src/
   * Multi-user support
 
 
-### 🌐 Live Demo
+## 🌐 Live Demo
   DEMO.. (Link  [https://github.com/kirti095/netflix-clone.git] )
 
 
-### 📄 License
+## 📄 License
  This project is licensed under MIT License.
 
-### ✅ Instructions:
+## ✅ Instructions:
 
 - Save this content into a `README.md` file in your project root.
 - Replace `"your_tmdb_api_key"` with your actual TMDB key.
@@ -107,7 +107,7 @@ src/
 Let me know if you'd like to generate the license file (`MIT`, `Apache`, etc.) too!
 
 
-### 📣 Feedback
+## 📣 Feedback
   We’d love to hear your thoughts about this Netflix Clone!
 
   If you find a bug, have suggestions for improvements, or want to share what you liked — feel free to:
